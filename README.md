@@ -1,5 +1,10 @@
 # My React Sandbox
 
+## Description
+This project is exposes the main features and concepts of The React Library
+- First part is dedicated to components, props, state etc
+- Second part is dedicated to hooks
+
 ### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
